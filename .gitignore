@@ -6,10 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Dev/youtubeDemo/.gitignore
-
-.idea/
-
 # Distribution / packaging
 .Python
 build/
@@ -131,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dev/yatube_project/.gitignore
+.vscode/
+.idea
